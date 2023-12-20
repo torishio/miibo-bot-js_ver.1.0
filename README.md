@@ -1,0 +1,4 @@
+node v20.10.0
+discord.js v14
+で作られています。
+windowsで動かす際はnodeを別途インストールしてください。
